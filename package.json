@@ -1,5 +1,5 @@
 {
-  "name": "serve",
+  "name": "@leancloud/serve",
   "version": "9.4.0",
   "description": "Static file serving and directory listing",
   "scripts": {
